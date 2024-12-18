@@ -1,7 +1,7 @@
 site_name: tps
 site_url: https://tps.fosscu.org
 theme:
-  logo: tps_logo.png
+  logo: https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png
   features:
     - navigation.footer
   name: material
@@ -42,3 +42,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  social:
+    - icon: simple/github
+      link: https:/github.com/Mr-Sunglasses
+    - icon: simple/x
+      link: https://x.com/itsKanishkP
+
+copyright: Feel Free to Use it in any other sessions &copy; 2024 Kanishk Pachauri
